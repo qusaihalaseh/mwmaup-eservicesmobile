@@ -1,0 +1,8 @@
+PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
+
+BUNDLE_DISPLAY_NAME = MWMAUP-eServicesMobile
+BUNDLE_IDENTIFIER = myapp.mwmaupeservicesmobile
+
+RUNTIME_URL = https:\/\/mobile.mun.gov.bh/
+
+PRODUCT_NAME = MWMAUPEServices
